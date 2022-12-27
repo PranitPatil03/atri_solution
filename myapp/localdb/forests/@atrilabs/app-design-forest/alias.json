@@ -1,0 +1,15 @@
+{
+  "Flex": 24,
+  "Div": 53,
+  "TextBox": 76,
+  "Image": 15,
+  "Alert": 1,
+  "Table": 9,
+  "TreemapChart": 2,
+  "ScatterChart": 1,
+  "RadialbarChart": 1,
+  "Menu": 1,
+  "Button": 6,
+  "Breadcrumb": 1,
+  "UnorderedList": 2
+}
